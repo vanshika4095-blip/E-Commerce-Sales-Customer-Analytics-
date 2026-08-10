@@ -1,0 +1,501 @@
+product_id,product_name,category,sub_category,unit_cost,selling_price
+20001,Cookware Set Prime,Home & Kitchen,Cookware Set,510.27,571.53
+20002,T-Shirt Pro,Fashion,T-Shirt,6515.26,7514.84
+20003,Air Fryer Pro,Home & Kitchen,Air Fryer,3559.01,4756.23
+20004,Gym Gloves Pro,Sports,Gym Gloves,2828.26,4428.21
+20005,Dinner Set X,Home & Kitchen,Dinner Set,4919.09,5887.4
+20006,Toaster Max,Home & Kitchen,Toaster,5659.91,8002.83
+20007,Sneakers Plus,Fashion,Sneakers,1729.43,2558.88
+20008,Tennis Balls Prime,Sports,Tennis Balls,1605.64,1993.65
+20009,Gym Gloves Lite,Sports,Gym Gloves,7671.48,10675.13
+20010,Air Fryer Prime,Home & Kitchen,Air Fryer,4778.86,7660.73
+20011,Football Classic,Sports,Football,3212.41,4470.01
+20012,Sunscreen Max,Beauty & Personal Care,Sunscreen,6441.32,7751.36
+20013,Self Help Book Pro,Books,Self Help Book,4272.5,6206.84
+20014,Biography Prime,Books,Biography,2047.05,2935.2
+20015,Backpack X,Fashion,Backpack,1772.87,2010.94
+20016,Hair Dryer Pro,Beauty & Personal Care,Hair Dryer,3265.35,3813.98
+20017,T-Shirt Max,Fashion,T-Shirt,6900.18,8301.57
+20018,Jeans Classic,Fashion,Jeans,632.37,753.93
+20019,Wireless Earbuds Lite,Electronics,Wireless Earbuds,1865.43,2345.81
+20020,Webcam Pro,Electronics,Webcam,7161.24,9744.13
+20021,Power Bank Prime,Electronics,Power Bank,1105.62,1456.11
+20022,Management Book Prime,Books,Management Book,5092.56,8107.58
+20023,Phone Case X,Electronics,Phone Case,1826.06,2637.59
+20024,Keyboard X,Electronics,Keyboard,4906.05,7772.93
+20025,Storage Box Plus,Home & Kitchen,Storage Box,3157.37,4418.21
+20026,Jacket X,Fashion,Jacket,948.16,1107.1
+20027,Programming Book Plus,Books,Programming Book,4722.43,6448.68
+20028,Shampoo Lite,Beauty & Personal Care,Shampoo,5511.89,8574.72
+20029,Water Bottle Classic,Home & Kitchen,Water Bottle,5490.14,6713.75
+20030,Data Analytics Book Plus,Books,Data Analytics Book,5150.72,6017.81
+20031,Phone Case Pro,Electronics,Phone Case,4076.76,5277.78
+20032,Self Help Book Max,Books,Self Help Book,4227.86,5606.63
+20033,Mouse Prime,Electronics,Mouse,5139.77,6590.81
+20034,Moisturizer Pro,Beauty & Personal Care,Moisturizer,5568.54,6635.9
+20035,Bluetooth Speaker Prime,Electronics,Bluetooth Speaker,5290.78,6629.06
+20036,Biography Classic,Books,Biography,4757.52,7048.79
+20037,Wireless Earbuds X,Electronics,Wireless Earbuds,1373.34,1819.05
+20038,Phone Case Max,Electronics,Phone Case,1803.34,2624.31
+20039,Cycling Helmet Pro,Sports,Cycling Helmet,2192.76,3079.16
+20040,Headphones Max,Electronics,Headphones,7369.34,10398.12
+20041,Yoga Mat Plus,Sports,Yoga Mat,6111.25,7649.64
+20042,Face Serum Classic,Beauty & Personal Care,Face Serum,4490.0,6269.92
+20043,T-Shirt Pro,Fashion,T-Shirt,2128.65,2410.71
+20044,Coffee Maker X,Home & Kitchen,Coffee Maker,1020.5,1376.48
+20045,Science Book Max,Books,Science Book,7205.26,10256.62
+20046,Yoga Mat X,Sports,Yoga Mat,7157.43,8706.71
+20047,Backpack Max,Fashion,Backpack,1018.96,1279.79
+20048,Vacuum Cleaner Pro,Home & Kitchen,Vacuum Cleaner,6408.15,7922.73
+20049,Storage Box Classic,Home & Kitchen,Storage Box,3656.16,4231.62
+20050,Water Bottle Lite,Home & Kitchen,Water Bottle,2693.14,3512.84
+20051,Jacket Pro,Fashion,Jacket,5951.97,9754.4
+20052,Badminton Racket X,Sports,Badminton Racket,4972.49,6501.81
+20053,Makeup Kit Lite,Beauty & Personal Care,Makeup Kit,6273.24,8557.23
+20054,Badminton Racket Classic,Sports,Badminton Racket,733.48,1075.38
+20055,Sunglasses X,Fashion,Sunglasses,2650.91,3880.15
+20056,Vacuum Cleaner Classic,Home & Kitchen,Vacuum Cleaner,2656.64,4312.91
+20057,Body Lotion Max,Beauty & Personal Care,Body Lotion,2738.56,4311.89
+20058,Gym Gloves Pro,Sports,Gym Gloves,4094.47,6308.73
+20059,Shampoo Classic,Beauty & Personal Care,Shampoo,2371.66,3852.44
+20060,Headphones X,Electronics,Headphones,3638.41,4520.02
+20061,Handbag Pro,Fashion,Handbag,3037.05,4394.73
+20062,Mixer Grinder Prime,Home & Kitchen,Mixer Grinder,5922.07,9417.36
+20063,Bluetooth Speaker X,Electronics,Bluetooth Speaker,4887.48,7090.72
+20064,Moisturizer X,Beauty & Personal Care,Moisturizer,5280.99,8650.44
+20065,Dinner Set Prime,Home & Kitchen,Dinner Set,1803.08,2115.35
+20066,Self Help Book Prime,Books,Self Help Book,2705.19,3659.7
+20067,Storage Box Lite,Home & Kitchen,Storage Box,316.15,517.85
+20068,Jeans Plus,Fashion,Jeans,1000.74,1322.15
+20069,Gym Gloves Classic,Sports,Gym Gloves,2230.68,3372.71
+20070,Cookware Set Classic,Home & Kitchen,Cookware Set,663.89,754.25
+20071,Football Lite,Sports,Football,4880.66,7263.71
+20072,Sunscreen Max,Beauty & Personal Care,Sunscreen,7985.32,12899.1
+20073,Exam Guide Classic,Books,Exam Guide,941.4,1245.32
+20074,Water Bottle Prime,Home & Kitchen,Water Bottle,6596.66,7462.73
+20075,Headphones Lite,Electronics,Headphones,1082.71,1228.65
+20076,Sunglasses Classic,Fashion,Sunglasses,5408.83,8615.03
+20077,Dumbbells Classic,Sports,Dumbbells,5198.79,7813.44
+20078,Handbag X,Fashion,Handbag,7236.33,8513.86
+20079,Vacuum Cleaner Lite,Home & Kitchen,Vacuum Cleaner,1044.47,1200.03
+20080,Keyboard Prime,Electronics,Keyboard,2626.24,4061.63
+20081,Coffee Maker Max,Home & Kitchen,Coffee Maker,862.62,1336.39
+20082,Lipstick Classic,Beauty & Personal Care,Lipstick,3347.96,3963.57
+20083,Webcam Max,Electronics,Webcam,7306.01,9350.27
+20084,Toaster Plus,Home & Kitchen,Toaster,6284.96,9637.44
+20085,Mouse Lite,Electronics,Mouse,5824.77,8145.76
+20086,Shampoo Lite,Beauty & Personal Care,Shampoo,4334.27,7051.81
+20087,Football Lite,Sports,Football,7085.36,9742.11
+20088,T-Shirt Prime,Fashion,T-Shirt,3678.12,5439.16
+20089,Keyboard Prime,Electronics,Keyboard,1325.03,1842.04
+20090,Mouse X,Electronics,Mouse,6725.04,10893.03
+20091,Handbag Lite,Fashion,Handbag,2345.16,3122.09
+20092,Backpack X,Fashion,Backpack,571.02,709.09
+20093,Shirt Prime,Fashion,Shirt,1139.4,1473.38
+20094,Data Analytics Book Plus,Books,Data Analytics Book,4931.11,7751.56
+20095,Exam Guide Pro,Books,Exam Guide,4915.59,6802.72
+20096,Headphones X,Electronics,Headphones,2192.44,2867.17
+20097,Webcam Classic,Electronics,Webcam,5858.36,8251.25
+20098,Coffee Maker Lite,Home & Kitchen,Coffee Maker,6223.08,7409.27
+20099,Shirt Pro,Fashion,Shirt,7375.95,8282.01
+20100,Backpack X,Fashion,Backpack,4741.76,6015.92
+20101,Face Wash Max,Beauty & Personal Care,Face Wash,6268.47,9030.69
+20102,Headphones Prime,Electronics,Headphones,6061.83,9075.72
+20103,Gym Gloves Max,Sports,Gym Gloves,2173.8,3387.01
+20104,Hoodie Classic,Fashion,Hoodie,2585.27,4165.21
+20105,Biography Pro,Books,Biography,3906.09,5227.99
+20106,Shampoo Plus,Beauty & Personal Care,Shampoo,299.46,452.93
+20107,Moisturizer X,Beauty & Personal Care,Moisturizer,2484.57,2881.05
+20108,Phone Case Max,Electronics,Phone Case,3869.98,4452.38
+20109,Body Lotion Max,Beauty & Personal Care,Body Lotion,998.34,1184.17
+20110,Smart Watch X,Electronics,Smart Watch,1141.27,1549.55
+20111,Body Lotion Max,Beauty & Personal Care,Body Lotion,3786.41,4664.78
+20112,Mouse Plus,Electronics,Mouse,5888.08,7490.05
+20113,Headphones Max,Electronics,Headphones,6694.93,9797.2
+20114,Webcam X,Electronics,Webcam,4438.56,5814.59
+20115,Headphones Lite,Electronics,Headphones,3876.78,5487.22
+20116,Water Bottle Max,Home & Kitchen,Water Bottle,3166.6,4238.73
+20117,Biography X,Books,Biography,1664.65,2013.48
+20118,Electric Kettle Lite,Home & Kitchen,Electric Kettle,1300.51,1507.59
+20119,Face Wash Max,Beauty & Personal Care,Face Wash,6366.39,7927.45
+20120,Headphones Max,Electronics,Headphones,3800.3,4372.55
+20121,Sunglasses X,Fashion,Sunglasses,6354.01,9199.74
+20122,Bluetooth Speaker Classic,Electronics,Bluetooth Speaker,5677.05,8752.48
+20123,Power Bank Classic,Electronics,Power Bank,1672.08,2173.81
+20124,Headphones Pro,Electronics,Headphones,4155.91,5507.28
+20125,Backpack Classic,Fashion,Backpack,3635.53,5644.46
+20126,USB Cable Plus,Electronics,USB Cable,3477.41,4304.98
+20127,Science Book Pro,Books,Science Book,4409.18,5216.74
+20128,Backpack Classic,Fashion,Backpack,7859.34,10889.84
+20129,Gym Gloves Lite,Sports,Gym Gloves,6531.27,9551.86
+20130,Biography Prime,Books,Biography,7244.14,10415.75
+20131,Sunscreen X,Beauty & Personal Care,Sunscreen,382.67,573.37
+20132,Management Book Classic,Books,Management Book,1251.64,1439.48
+20133,USB Cable Lite,Electronics,USB Cable,815.39,1098.29
+20134,Cricket Bat Prime,Sports,Cricket Bat,2216.36,2762.57
+20135,Air Fryer Pro,Home & Kitchen,Air Fryer,3618.86,5509.11
+20136,Jacket X,Fashion,Jacket,5190.12,8213.61
+20137,Body Lotion Classic,Beauty & Personal Care,Body Lotion,4081.53,5179.9
+20138,Fiction Novel Pro,Books,Fiction Novel,7239.99,8474.16
+20139,Exam Guide Classic,Books,Exam Guide,7527.87,9442.33
+20140,Keyboard Pro,Electronics,Keyboard,1433.64,1684.71
+20141,Toaster Classic,Home & Kitchen,Toaster,6845.37,8836.58
+20142,Tennis Balls Prime,Sports,Tennis Balls,3931.52,5524.75
+20143,Sunscreen Lite,Beauty & Personal Care,Sunscreen,3708.64,6067.52
+20144,Mouse Plus,Electronics,Mouse,6311.77,8405.17
+20145,Shirt Prime,Fashion,Shirt,881.15,1089.65
+20146,Skipping Rope Lite,Sports,Skipping Rope,7077.57,8552.57
+20147,Perfume X,Beauty & Personal Care,Perfume,5416.28,6562.97
+20148,Toaster Classic,Home & Kitchen,Toaster,7020.8,8579.96
+20149,Makeup Kit Plus,Beauty & Personal Care,Makeup Kit,7956.65,12125.95
+20150,Sunglasses Prime,Fashion,Sunglasses,4216.33,4858.67
+20151,Biography Plus,Books,Biography,882.11,1454.27
+20152,Dress X,Fashion,Dress,1457.21,2035.76
+20153,Vacuum Cleaner X,Home & Kitchen,Vacuum Cleaner,2690.4,3789.33
+20154,Skipping Rope Plus,Sports,Skipping Rope,962.89,1260.91
+20155,Wireless Earbuds X,Electronics,Wireless Earbuds,6550.43,9732.86
+20156,Self Help Book X,Books,Self Help Book,2480.41,3397.84
+20157,Hair Dryer Classic,Beauty & Personal Care,Hair Dryer,7810.71,10110.2
+20158,Science Book Lite,Books,Science Book,5665.34,7141.29
+20159,Electric Kettle Max,Home & Kitchen,Electric Kettle,1511.43,2434.3
+20160,Lipstick Pro,Beauty & Personal Care,Lipstick,3886.93,4952.82
+20161,Gym Gloves Plus,Sports,Gym Gloves,3815.04,5155.22
+20162,Face Serum Pro,Beauty & Personal Care,Face Serum,4016.22,5243.9
+20163,Mouse Plus,Electronics,Mouse,4355.18,5076.72
+20164,Cookware Set Plus,Home & Kitchen,Cookware Set,394.71,480.97
+20165,Backpack Lite,Fashion,Backpack,5537.46,6758.12
+20166,Sunglasses Prime,Fashion,Sunglasses,3974.46,5912.54
+20167,Body Lotion Prime,Beauty & Personal Care,Body Lotion,6359.08,8492.49
+20168,Toaster Plus,Home & Kitchen,Toaster,6550.49,10051.35
+20169,Dumbbells Plus,Sports,Dumbbells,1959.7,2931.21
+20170,Dress Lite,Fashion,Dress,530.12,647.69
+20171,USB Cable X,Electronics,USB Cable,5670.39,8042.57
+20172,USB Cable Prime,Electronics,USB Cable,7825.44,11845.69
+20173,Moisturizer Max,Beauty & Personal Care,Moisturizer,3656.27,5321.75
+20174,Backpack Pro,Fashion,Backpack,2187.96,3146.31
+20175,Hoodie Plus,Fashion,Hoodie,1379.87,2086.35
+20176,Cycling Helmet Lite,Sports,Cycling Helmet,2406.45,2767.64
+20177,Dinner Set Plus,Home & Kitchen,Dinner Set,2724.17,4107.1
+20178,Management Book Prime,Books,Management Book,3477.42,4397.22
+20179,Fiction Novel Lite,Books,Fiction Novel,5294.95,7535.2
+20180,Keyboard Pro,Electronics,Keyboard,2294.33,2864.29
+20181,Running Shoes Classic,Sports,Running Shoes,550.17,860.78
+20182,Hair Dryer Prime,Beauty & Personal Care,Hair Dryer,3080.24,4234.4
+20183,Hoodie X,Fashion,Hoodie,6866.69,10030.58
+20184,Hoodie Classic,Fashion,Hoodie,4062.06,6259.08
+20185,Yoga Mat Lite,Sports,Yoga Mat,7723.55,12315.33
+20186,Finance Book Plus,Books,Finance Book,4103.43,6187.94
+20187,Hoodie X,Fashion,Hoodie,2315.81,2776.3
+20188,Headphones Prime,Electronics,Headphones,1667.51,2622.83
+20189,Sunglasses Pro,Fashion,Sunglasses,5602.02,8110.86
+20190,Keyboard Prime,Electronics,Keyboard,4360.59,6292.37
+20191,Backpack Max,Fashion,Backpack,4891.39,7866.87
+20192,Badminton Racket X,Sports,Badminton Racket,6077.75,7608.62
+20193,Air Fryer Plus,Home & Kitchen,Air Fryer,5848.34,7292.77
+20194,Webcam Classic,Electronics,Webcam,490.4,682.63
+20195,Lipstick Lite,Beauty & Personal Care,Lipstick,6450.19,9791.11
+20196,Toaster Classic,Home & Kitchen,Toaster,4331.72,5878.31
+20197,Cookware Set Prime,Home & Kitchen,Cookware Set,3224.91,4695.35
+20198,Shampoo X,Beauty & Personal Care,Shampoo,4369.53,5941.85
+20199,Self Help Book Max,Books,Self Help Book,4957.74,7156.52
+20200,Makeup Kit Plus,Beauty & Personal Care,Makeup Kit,1323.62,2059.29
+20201,Backpack Lite,Fashion,Backpack,3426.71,4165.69
+20202,Sunglasses Plus,Fashion,Sunglasses,2784.35,4144.65
+20203,Wireless Earbuds Plus,Electronics,Wireless Earbuds,2900.71,4459.36
+20204,Running Shoes Max,Sports,Running Shoes,866.98,1176.47
+20205,Handbag X,Fashion,Handbag,1404.77,1814.0
+20206,Management Book Classic,Books,Management Book,1420.38,1601.02
+20207,Exam Guide Plus,Books,Exam Guide,3079.81,4750.5
+20208,Coffee Maker Prime,Home & Kitchen,Coffee Maker,7171.76,9278.88
+20209,Exam Guide Prime,Books,Exam Guide,1767.31,2314.07
+20210,Data Analytics Book Plus,Books,Data Analytics Book,3417.11,4435.69
+20211,Dress Plus,Fashion,Dress,2596.13,3593.91
+20212,Dinner Set Lite,Home & Kitchen,Dinner Set,6330.96,9447.85
+20213,Shampoo Plus,Beauty & Personal Care,Shampoo,543.49,831.04
+20214,Coffee Maker Prime,Home & Kitchen,Coffee Maker,1692.87,2248.24
+20215,Handbag Plus,Fashion,Handbag,1803.54,2653.81
+20216,Keyboard X,Electronics,Keyboard,7944.76,11932.73
+20217,Jacket Prime,Fashion,Jacket,4630.58,5914.95
+20218,Data Analytics Book Plus,Books,Data Analytics Book,1240.82,1453.26
+20219,Water Bottle Max,Home & Kitchen,Water Bottle,2286.76,3645.49
+20220,Moisturizer Max,Beauty & Personal Care,Moisturizer,1467.4,2170.1
+20221,Air Fryer Prime,Home & Kitchen,Air Fryer,1128.15,1651.05
+20222,Sunscreen Plus,Beauty & Personal Care,Sunscreen,6407.88,7376.87
+20223,Lipstick Max,Beauty & Personal Care,Lipstick,4041.66,6278.61
+20224,Keyboard X,Electronics,Keyboard,5105.0,7249.14
+20225,Backpack Lite,Fashion,Backpack,2750.32,4316.29
+20226,Cycling Helmet Max,Sports,Cycling Helmet,4496.51,7358.62
+20227,Toaster Prime,Home & Kitchen,Toaster,2171.92,3534.29
+20228,Shampoo Max,Beauty & Personal Care,Shampoo,2568.08,4041.46
+20229,Face Wash Classic,Beauty & Personal Care,Face Wash,5270.07,5933.06
+20230,Vacuum Cleaner X,Home & Kitchen,Vacuum Cleaner,1330.25,2114.35
+20231,Programming Book Max,Books,Programming Book,4995.19,5793.34
+20232,Jacket Lite,Fashion,Jacket,6840.04,10746.61
+20233,Vacuum Cleaner Classic,Home & Kitchen,Vacuum Cleaner,1095.32,1389.4
+20234,Phone Case Prime,Electronics,Phone Case,7195.07,10384.91
+20235,Jeans Prime,Fashion,Jeans,773.65,882.1
+20236,Shampoo Plus,Beauty & Personal Care,Shampoo,2888.94,4416.4
+20237,Sunglasses X,Fashion,Sunglasses,4942.5,5828.22
+20238,Makeup Kit Max,Beauty & Personal Care,Makeup Kit,4541.41,6074.88
+20239,Yoga Mat Plus,Sports,Yoga Mat,906.67,1408.28
+20240,Sneakers X,Fashion,Sneakers,6421.47,9558.58
+20241,Hoodie Prime,Fashion,Hoodie,7789.25,8748.91
+20242,Exam Guide Classic,Books,Exam Guide,1572.64,2097.28
+20243,Science Book Max,Books,Science Book,7176.78,8197.47
+20244,Storage Box Prime,Home & Kitchen,Storage Box,4520.95,6677.24
+20245,Face Wash Lite,Beauty & Personal Care,Face Wash,7497.08,12246.8
+20246,Electric Kettle X,Home & Kitchen,Electric Kettle,1532.27,2248.28
+20247,Headphones Prime,Electronics,Headphones,6367.37,7888.65
+20248,Moisturizer Prime,Beauty & Personal Care,Moisturizer,619.29,810.2
+20249,Backpack Lite,Fashion,Backpack,7083.09,11599.44
+20250,Headphones Plus,Electronics,Headphones,5442.15,6741.45
+20251,Hair Dryer Prime,Beauty & Personal Care,Hair Dryer,3056.5,4332.93
+20252,Business Book Plus,Books,Business Book,1645.16,2191.75
+20253,Data Analytics Book Classic,Books,Data Analytics Book,6559.78,10018.14
+20254,Jacket Classic,Fashion,Jacket,4885.44,7717.61
+20255,T-Shirt Pro,Fashion,T-Shirt,2979.26,3874.96
+20256,Webcam Pro,Electronics,Webcam,3634.11,5342.18
+20257,Football Classic,Sports,Football,6638.36,9366.69
+20258,Business Book Max,Books,Business Book,2810.58,3562.62
+20259,Dumbbells Plus,Sports,Dumbbells,853.62,1079.09
+20260,Shampoo Lite,Beauty & Personal Care,Shampoo,7303.57,10264.98
+20261,Keyboard Prime,Electronics,Keyboard,3190.65,3833.95
+20262,Toaster Prime,Home & Kitchen,Toaster,2884.84,4470.72
+20263,Vacuum Cleaner Classic,Home & Kitchen,Vacuum Cleaner,1754.54,2029.25
+20264,Cycling Helmet Max,Sports,Cycling Helmet,7194.77,8418.78
+20265,Bluetooth Speaker Lite,Electronics,Bluetooth Speaker,1857.42,2417.21
+20266,Jacket Pro,Fashion,Jacket,5147.88,6087.82
+20267,Phone Case Lite,Electronics,Phone Case,7064.01,9692.68
+20268,Face Wash Classic,Beauty & Personal Care,Face Wash,424.07,564.79
+20269,Cycling Helmet Plus,Sports,Cycling Helmet,6656.01,10001.05
+20270,Makeup Kit Classic,Beauty & Personal Care,Makeup Kit,3373.21,5481.78
+20271,Badminton Racket Prime,Sports,Badminton Racket,5315.1,8075.69
+20272,Jacket Prime,Fashion,Jacket,3073.38,3734.49
+20273,Headphones X,Electronics,Headphones,5609.8,9064.46
+20274,Mixer Grinder Max,Home & Kitchen,Mixer Grinder,2146.22,2849.82
+20275,Business Book Max,Books,Business Book,322.15,441.77
+20276,Mixer Grinder Max,Home & Kitchen,Mixer Grinder,7590.13,10196.85
+20277,Keyboard X,Electronics,Keyboard,278.49,353.32
+20278,Cookware Set X,Home & Kitchen,Cookware Set,6619.18,10553.45
+20279,Electric Kettle Plus,Home & Kitchen,Electric Kettle,1477.73,1915.27
+20280,Shirt Max,Fashion,Shirt,3228.93,4606.57
+20281,Dress Classic,Fashion,Dress,6606.57,8239.83
+20282,Exam Guide X,Books,Exam Guide,1766.57,2725.13
+20283,Hair Dryer Classic,Beauty & Personal Care,Hair Dryer,6945.8,10629.33
+20284,Webcam Pro,Electronics,Webcam,4057.41,5181.5
+20285,Hair Dryer Max,Beauty & Personal Care,Hair Dryer,3024.3,4479.66
+20286,Dumbbells X,Sports,Dumbbells,5350.14,7988.04
+20287,Cycling Helmet X,Sports,Cycling Helmet,2829.91,4013.18
+20288,Handbag Plus,Fashion,Handbag,2876.21,4136.9
+20289,Cookware Set Classic,Home & Kitchen,Cookware Set,5908.18,8415.97
+20290,Dumbbells Plus,Sports,Dumbbells,2582.18,3004.08
+20291,Perfume Plus,Beauty & Personal Care,Perfume,1726.07,2546.37
+20292,Shirt Classic,Fashion,Shirt,6490.02,8884.71
+20293,Phone Case Pro,Electronics,Phone Case,6472.16,8752.84
+20294,Body Lotion Classic,Beauty & Personal Care,Body Lotion,4056.05,6391.52
+20295,Power Bank Pro,Electronics,Power Bank,4284.25,4851.1
+20296,Headphones Plus,Electronics,Headphones,5614.2,7035.7
+20297,Dinner Set Pro,Home & Kitchen,Dinner Set,4147.8,4912.42
+20298,Mixer Grinder Max,Home & Kitchen,Mixer Grinder,3423.76,3898.74
+20299,Backpack Pro,Fashion,Backpack,7959.92,10078.12
+20300,Mixer Grinder Pro,Home & Kitchen,Mixer Grinder,1308.98,2151.82
+20301,USB Cable X,Electronics,USB Cable,4802.91,6067.14
+20302,Power Bank X,Electronics,Power Bank,7104.02,10455.44
+20303,Keyboard Prime,Electronics,Keyboard,5544.64,6557.64
+20304,Sneakers Plus,Fashion,Sneakers,7065.25,10166.75
+20305,Bluetooth Speaker Classic,Electronics,Bluetooth Speaker,2790.23,4580.93
+20306,Vacuum Cleaner Pro,Home & Kitchen,Vacuum Cleaner,2285.14,2912.81
+20307,Shirt Max,Fashion,Shirt,6832.49,10723.46
+20308,Cookware Set X,Home & Kitchen,Cookware Set,3243.8,5348.09
+20309,Vacuum Cleaner Classic,Home & Kitchen,Vacuum Cleaner,5721.01,8192.11
+20310,Yoga Mat Max,Sports,Yoga Mat,1309.83,1681.8
+20311,Handbag Pro,Fashion,Handbag,6083.33,8984.91
+20312,Cycling Helmet Classic,Sports,Cycling Helmet,4459.51,6991.48
+20313,Jacket Prime,Fashion,Jacket,2258.6,2734.75
+20314,Biography Max,Books,Biography,4031.86,5482.66
+20315,Dinner Set Lite,Home & Kitchen,Dinner Set,5621.01,7246.43
+20316,Jeans Max,Fashion,Jeans,243.31,309.05
+20317,Sneakers Max,Fashion,Sneakers,5154.12,8124.11
+20318,Finance Book Pro,Books,Finance Book,4401.49,5913.3
+20319,Dinner Set Classic,Home & Kitchen,Dinner Set,1879.25,2442.48
+20320,Cycling Helmet Pro,Sports,Cycling Helmet,6060.9,8726.85
+20321,Sunglasses Pro,Fashion,Sunglasses,2532.17,3130.48
+20322,Body Lotion Lite,Beauty & Personal Care,Body Lotion,2323.36,2885.25
+20323,Dumbbells Prime,Sports,Dumbbells,3849.06,5372.34
+20324,Programming Book Max,Books,Programming Book,5457.77,7296.57
+20325,Shampoo Classic,Beauty & Personal Care,Shampoo,7441.44,9497.81
+20326,Coffee Maker Prime,Home & Kitchen,Coffee Maker,1259.65,1446.83
+20327,Cookware Set Plus,Home & Kitchen,Cookware Set,3262.27,4554.16
+20328,Cookware Set X,Home & Kitchen,Cookware Set,675.87,1049.49
+20329,Smart Watch Prime,Electronics,Smart Watch,6104.62,9591.76
+20330,Power Bank Pro,Electronics,Power Bank,3664.7,4561.76
+20331,Sneakers Pro,Fashion,Sneakers,5699.39,8194.64
+20332,Cricket Bat Pro,Sports,Cricket Bat,2679.23,4216.08
+20333,Mouse Pro,Electronics,Mouse,6777.89,9059.5
+20334,Shirt X,Fashion,Shirt,4348.4,7018.46
+20335,Coffee Maker Plus,Home & Kitchen,Coffee Maker,7557.32,12080.97
+20336,Running Shoes Lite,Sports,Running Shoes,768.69,945.73
+20337,Phone Case Plus,Electronics,Phone Case,4187.07,5264.2
+20338,Backpack X,Fashion,Backpack,6166.67,7496.42
+20339,Exam Guide Classic,Books,Exam Guide,4861.2,5949.67
+20340,Toaster Lite,Home & Kitchen,Toaster,332.07,531.7
+20341,Face Wash Lite,Beauty & Personal Care,Face Wash,7782.86,12557.67
+20342,Football Classic,Sports,Football,2491.37,2858.86
+20343,Keyboard Max,Electronics,Keyboard,2106.83,3022.48
+20344,Fiction Novel Pro,Books,Fiction Novel,3962.43,5622.86
+20345,Yoga Mat X,Sports,Yoga Mat,4405.94,5846.64
+20346,Bluetooth Speaker Classic,Electronics,Bluetooth Speaker,6165.36,8969.36
+20347,Vacuum Cleaner Plus,Home & Kitchen,Vacuum Cleaner,3237.2,5251.08
+20348,Shirt Plus,Fashion,Shirt,3603.69,4361.31
+20349,Cycling Helmet Max,Sports,Cycling Helmet,4349.44,5148.94
+20350,Smart Watch Classic,Electronics,Smart Watch,3245.94,3692.9
+20351,Perfume X,Beauty & Personal Care,Perfume,7329.2,9622.01
+20352,Mixer Grinder Max,Home & Kitchen,Mixer Grinder,6832.33,8874.81
+20353,Badminton Racket Max,Sports,Badminton Racket,3721.54,5017.88
+20354,Body Lotion Max,Beauty & Personal Care,Body Lotion,151.53,210.13
+20355,Backpack Lite,Fashion,Backpack,7222.34,10989.85
+20356,Hair Dryer Lite,Beauty & Personal Care,Hair Dryer,1126.04,1495.18
+20357,Gym Gloves Pro,Sports,Gym Gloves,2069.42,2680.36
+20358,Dinner Set X,Home & Kitchen,Dinner Set,1346.04,2097.46
+20359,Hair Dryer Plus,Beauty & Personal Care,Hair Dryer,1561.55,2452.25
+20360,USB Cable Plus,Electronics,USB Cable,6452.59,8022.93
+20361,Body Lotion Pro,Beauty & Personal Care,Body Lotion,4699.09,6046.68
+20362,Makeup Kit Plus,Beauty & Personal Care,Makeup Kit,7655.35,11921.77
+20363,Sneakers Max,Fashion,Sneakers,1966.91,2285.72
+20364,Tennis Balls Pro,Sports,Tennis Balls,3962.23,5121.97
+20365,T-Shirt Pro,Fashion,T-Shirt,7822.81,10620.45
+20366,Finance Book Classic,Books,Finance Book,6637.58,8092.19
+20367,Bluetooth Speaker Lite,Electronics,Bluetooth Speaker,5869.63,7133.68
+20368,USB Cable X,Electronics,USB Cable,1633.46,2197.29
+20369,Football X,Sports,Football,6189.83,9407.9
+20370,Cycling Helmet Lite,Sports,Cycling Helmet,2878.39,4505.61
+20371,Jacket Max,Fashion,Jacket,4314.71,7071.79
+20372,Management Book X,Books,Management Book,4931.92,5717.14
+20373,Moisturizer Plus,Beauty & Personal Care,Moisturizer,4933.51,6092.1
+20374,Data Analytics Book Plus,Books,Data Analytics Book,5853.21,8902.81
+20375,Jacket X,Fashion,Jacket,5344.36,7516.93
+20376,Webcam Prime,Electronics,Webcam,686.71,888.38
+20377,Backpack Prime,Fashion,Backpack,3740.17,4596.53
+20378,Exam Guide Classic,Books,Exam Guide,5362.57,6803.24
+20379,Dinner Set X,Home & Kitchen,Dinner Set,2473.54,3333.15
+20380,Self Help Book Pro,Books,Self Help Book,2607.49,3165.21
+20381,Football Max,Sports,Football,1127.86,1839.58
+20382,Hoodie Pro,Fashion,Hoodie,3436.13,4044.4
+20383,Shirt Lite,Fashion,Shirt,7896.62,12969.06
+20384,Handbag Max,Fashion,Handbag,2389.76,3742.85
+20385,Moisturizer Max,Beauty & Personal Care,Moisturizer,4321.78,5809.64
+20386,Keyboard Plus,Electronics,Keyboard,5984.41,9049.04
+20387,Programming Book Max,Books,Programming Book,255.95,377.76
+20388,Backpack Classic,Fashion,Backpack,7218.45,8900.65
+20389,Fiction Novel X,Books,Fiction Novel,3184.42,4138.81
+20390,Dress Pro,Fashion,Dress,6972.56,9705.49
+20391,Sunglasses Plus,Fashion,Sunglasses,455.74,664.5
+20392,Jacket Prime,Fashion,Jacket,1293.46,1820.85
+20393,Cricket Bat Plus,Sports,Cricket Bat,2681.86,3675.98
+20394,Electric Kettle Classic,Home & Kitchen,Electric Kettle,2861.87,3877.46
+20395,Self Help Book Classic,Books,Self Help Book,6805.18,9418.91
+20396,Hoodie Classic,Fashion,Hoodie,237.93,321.25
+20397,Exam Guide Classic,Books,Exam Guide,5182.73,7291.61
+20398,Yoga Mat Prime,Sports,Yoga Mat,1180.8,1878.22
+20399,Sunscreen Pro,Beauty & Personal Care,Sunscreen,6612.24,9623.45
+20400,Backpack Classic,Fashion,Backpack,6261.8,9411.42
+20401,Jeans Plus,Fashion,Jeans,4074.38,5853.52
+20402,Running Shoes Plus,Sports,Running Shoes,1819.59,2658.06
+20403,Sunglasses Prime,Fashion,Sunglasses,5130.79,7319.2
+20404,Makeup Kit Max,Beauty & Personal Care,Makeup Kit,1376.63,1561.43
+20405,Badminton Racket X,Sports,Badminton Racket,1641.69,2708.44
+20406,Hoodie Plus,Fashion,Hoodie,5069.52,5768.17
+20407,Handbag Plus,Fashion,Handbag,7931.14,10543.88
+20408,Mouse Prime,Electronics,Mouse,7144.83,8400.26
+20409,Cookware Set Pro,Home & Kitchen,Cookware Set,4805.89,5629.49
+20410,Science Book Max,Books,Science Book,4377.51,6743.86
+20411,Football Plus,Sports,Football,7987.32,10748.86
+20412,Bluetooth Speaker Lite,Electronics,Bluetooth Speaker,4447.07,6868.96
+20413,Football Plus,Sports,Football,3447.91,4360.15
+20414,Phone Case X,Electronics,Phone Case,7290.01,9155.71
+20415,Backpack X,Fashion,Backpack,1988.35,2491.71
+20416,Headphones Max,Electronics,Headphones,915.58,1324.44
+20417,Programming Book Max,Books,Programming Book,5127.61,7957.79
+20418,Biography Classic,Books,Biography,902.42,1227.02
+20419,Shirt Pro,Fashion,Shirt,3079.22,4067.66
+20420,Dinner Set X,Home & Kitchen,Dinner Set,3475.08,5685.22
+20421,Hoodie Lite,Fashion,Hoodie,4448.17,5257.2
+20422,Makeup Kit Lite,Beauty & Personal Care,Makeup Kit,7934.53,10933.11
+20423,Mixer Grinder Classic,Home & Kitchen,Mixer Grinder,1884.71,2518.91
+20424,Backpack Pro,Fashion,Backpack,3099.69,3632.86
+20425,Body Lotion Pro,Beauty & Personal Care,Body Lotion,1188.08,1499.53
+20426,Cookware Set Max,Home & Kitchen,Cookware Set,4919.77,5584.3
+20427,Wireless Earbuds Plus,Electronics,Wireless Earbuds,5862.23,9290.38
+20428,Jeans Lite,Fashion,Jeans,3934.3,5673.89
+20429,Face Serum Lite,Beauty & Personal Care,Face Serum,2079.78,3227.73
+20430,Programming Book Prime,Books,Programming Book,5023.97,7015.59
+20431,Wireless Earbuds Lite,Electronics,Wireless Earbuds,4382.39,6300.74
+20432,Backpack Lite,Fashion,Backpack,1493.81,2227.95
+20433,T-Shirt Prime,Fashion,T-Shirt,3334.6,5339.52
+20434,Vacuum Cleaner X,Home & Kitchen,Vacuum Cleaner,3566.3,4167.68
+20435,Jacket Pro,Fashion,Jacket,7863.55,10186.46
+20436,Mouse Plus,Electronics,Mouse,6816.89,10196.59
+20437,Air Fryer X,Home & Kitchen,Air Fryer,5914.81,9628.87
+20438,Cricket Bat Pro,Sports,Cricket Bat,7126.9,11686.89
+20439,Shirt Classic,Fashion,Shirt,5923.55,8637.69
+20440,Business Book Lite,Books,Business Book,7241.7,8853.75
+20441,Storage Box Plus,Home & Kitchen,Storage Box,578.24,684.16
+20442,Backpack Pro,Fashion,Backpack,3730.12,6048.03
+20443,Storage Box Classic,Home & Kitchen,Storage Box,6013.15,8117.64
+20444,Mixer Grinder Lite,Home & Kitchen,Mixer Grinder,4728.87,5784.6
+20445,Finance Book Classic,Books,Finance Book,1525.05,2462.9
+20446,Hair Dryer Prime,Beauty & Personal Care,Hair Dryer,2822.86,3317.98
+20447,Toaster Classic,Home & Kitchen,Toaster,2644.53,3984.44
+20448,Makeup Kit X,Beauty & Personal Care,Makeup Kit,2201.57,3195.34
+20449,Biography Classic,Books,Biography,2843.61,3317.07
+20450,Smart Watch X,Electronics,Smart Watch,4191.6,5447.14
+20451,Coffee Maker Max,Home & Kitchen,Coffee Maker,6860.72,8229.18
+20452,Headphones X,Electronics,Headphones,5974.96,8606.24
+20453,Badminton Racket Prime,Sports,Badminton Racket,6706.71,9207.44
+20454,Bluetooth Speaker Prime,Electronics,Bluetooth Speaker,7086.29,7952.7
+20455,Cookware Set Classic,Home & Kitchen,Cookware Set,3416.78,5593.7
+20456,Hoodie Pro,Fashion,Hoodie,2866.31,3741.34
+20457,Hoodie Classic,Fashion,Hoodie,602.34,757.05
+20458,Tennis Balls Classic,Sports,Tennis Balls,7454.36,9227.71
+20459,Water Bottle Pro,Home & Kitchen,Water Bottle,666.71,802.83
+20460,Dress Lite,Fashion,Dress,5967.91,9844.32
+20461,Science Book Plus,Books,Science Book,3118.15,3980.03
+20462,Coffee Maker Max,Home & Kitchen,Coffee Maker,7597.93,10142.65
+20463,Dinner Set Lite,Home & Kitchen,Dinner Set,3443.88,5447.59
+20464,Face Wash Classic,Beauty & Personal Care,Face Wash,6560.38,9579.47
+20465,Face Serum Lite,Beauty & Personal Care,Face Serum,2368.84,3115.99
+20466,Air Fryer Plus,Home & Kitchen,Air Fryer,2497.85,3986.85
+20467,USB Cable Prime,Electronics,USB Cable,4824.83,7320.97
+20468,Sunscreen Lite,Beauty & Personal Care,Sunscreen,7984.16,9906.64
+20469,Hair Dryer Plus,Beauty & Personal Care,Hair Dryer,4212.94,6155.87
+20470,Gym Gloves Lite,Sports,Gym Gloves,7500.02,12066.57
+20471,Cycling Helmet X,Sports,Cycling Helmet,6322.06,8744.19
+20472,Power Bank Classic,Electronics,Power Bank,6397.53,9652.69
+20473,Gym Gloves Plus,Sports,Gym Gloves,3572.29,5839.57
+20474,Smart Watch Max,Electronics,Smart Watch,3184.36,4731.7
+20475,Cycling Helmet Classic,Sports,Cycling Helmet,1656.59,1945.32
+20476,Face Serum X,Beauty & Personal Care,Face Serum,7716.94,9643.22
+20477,T-Shirt Prime,Fashion,T-Shirt,7681.24,11025.66
+20478,Lipstick Lite,Beauty & Personal Care,Lipstick,6014.48,7614.6
+20479,Headphones Classic,Electronics,Headphones,2475.58,4029.0
+20480,Keyboard Lite,Electronics,Keyboard,2074.66,2769.33
+20481,Air Fryer Lite,Home & Kitchen,Air Fryer,7910.59,10776.85
+20482,Yoga Mat Classic,Sports,Yoga Mat,672.36,1003.06
+20483,Sneakers Plus,Fashion,Sneakers,6771.98,9466.23
+20484,Dinner Set Plus,Home & Kitchen,Dinner Set,2940.35,3888.72
+20485,Skipping Rope Classic,Sports,Skipping Rope,3438.13,3990.36
+20486,Water Bottle Plus,Home & Kitchen,Water Bottle,6681.02,9594.72
+20487,Gym Gloves Pro,Sports,Gym Gloves,861.23,1360.59
+20488,Hoodie Lite,Fashion,Hoodie,2930.23,4346.86
+20489,Hoodie Classic,Fashion,Hoodie,7623.39,10079.59
+20490,Mixer Grinder Max,Home & Kitchen,Mixer Grinder,5637.67,6695.83
+20491,Programming Book X,Books,Programming Book,6076.27,9434.38
+20492,Keyboard Prime,Electronics,Keyboard,6096.42,9870.88
+20493,Headphones Classic,Electronics,Headphones,625.48,829.25
+20494,Shirt Classic,Fashion,Shirt,1745.18,2628.56
+20495,Skipping Rope Lite,Sports,Skipping Rope,4006.42,5359.41
+20496,Mouse X,Electronics,Mouse,3039.98,4214.02
+20497,Perfume Lite,Beauty & Personal Care,Perfume,3375.66,5277.28
+20498,Hair Dryer Max,Beauty & Personal Care,Hair Dryer,6284.36,7316.35
+20499,Jeans Prime,Fashion,Jeans,265.23,371.61
+20500,Backpack Plus,Fashion,Backpack,5334.86,6581.88

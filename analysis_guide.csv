@@ -1,0 +1,13 @@
+Analysis,Approach
+Total Revenue,SUM(sales_amount)
+Total Profit,SUM(profit)
+Total Orders,COUNT(DISTINCT order_id)
+Average Order Value,Revenue / Orders
+Profit Margin,Profit / Revenue
+Top 10 Products,GROUP BY product + RANK
+Top 10 Customers,GROUP BY customer + RANK
+Revenue by Category,GROUP BY category
+Revenue by Region,GROUP BY region
+Monthly Revenue,GROUP BY month
+Repeat Customer Rate,Customers with >1 order / active customers
+Cancelled Order Rate,Cancelled orders / total orders
