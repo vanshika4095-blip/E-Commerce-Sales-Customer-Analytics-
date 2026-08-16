@@ -49,7 +49,7 @@ GROUP BY
 ORDER BY revenue DESC
 LIMIT 10;
 
---5.Top 10 products by profit
+--5.Lowest-margin products above revenue threshold
 SELECT
     p.product_id,
     p.product_name,
